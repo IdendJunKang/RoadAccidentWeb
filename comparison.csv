@@ -1,0 +1,7 @@
+﻿Predictive Model,metrics,score (%)
+Random Forest,accuracy,90
+SVM (by Hindawi's journal),accuracy,85
+Random Forest,F1-Score,90
+SVM (by Hindawi's journal),F1-Score,85.28
+K Means (by Springer Link's journal),accuracy,42.25
+K Means (by Springer Link's journal),F1-Score,43
