@@ -1,0 +1,1 @@
+This is a web application dedicated to incorporate both road accident severity prediction and road accident dataset analyzation functions achieved via the predictive model deployed with random forest classifier.
